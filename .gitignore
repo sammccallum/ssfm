@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+wandb/
+
+# Virtual environments
+.venv*
+
+# Data
+data/
+storage/
+
+# Checkpoints
+*.eqx
+*.npz
+*.pkl
+
+# Misc
+notes/
+ScoreMD/
+.DS_Store
