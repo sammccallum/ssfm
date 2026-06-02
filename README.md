@@ -1,7 +1,6 @@
 # Strong Stochastic Flow Maps
 
-Reference implementation for the paper *Strong Stochastic Flow Maps* (preprint
-link TBD). `ssfm/` is the library; `experiments/` holds the scripts that
+Reference implementation for the paper *Strong Stochastic Flow Maps* ([arxiv](https://arxiv.org/abs/2606.01086)). `ssfm/` is the library; `experiments/` holds the scripts that
 reproduce the results in the paper.
 
 ## Repository layout
